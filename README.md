@@ -13,7 +13,7 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
-![demonstration](https://user-images.githubusercontent.com/61589484/91852512-54e6f500-ec37-11ea-8ddc-155231c9d89d.gif)
+
 
 
 
