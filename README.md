@@ -8,7 +8,8 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <ul>
   <li>Dia 01 | Ícones de mídias sociais em camadas</li>
-  <li>Dia 02 | loader page</li>
+  <li>Dia 02 | Loader page</li>
+  <li>Dia 03 | Typer </li>
 </ul>
 
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
