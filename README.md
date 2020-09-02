@@ -22,7 +22,13 @@ Desafio iniciado em **31 de Agosto de 2020**
 ![demonstration](https://user-images.githubusercontent.com/61589484/91853878-3a158000-ec39-11ea-9da1-cd4227234586.gif)
   
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_02'>Código fonte </a>
-<h3></h3>
+
+<h3> Dia 03 | Efeito de digitalização </h3>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/91987231-2d119300-ed04-11ea-88e0-dd0480bf5485.gif)
+
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_03'>Código fonte </a>
 
 
 
