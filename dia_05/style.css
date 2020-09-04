@@ -1,0 +1,69 @@
+*,*::before, *::after{
+    box-sizing: border-box;
+}
+
+body{
+    padding:0;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: beige;
+}
+
+section{
+    padding: 2em;
+}
+
+.scroll{
+    position: absolute;
+    bottom: 0.3em;
+    left: 58%;
+    width: 6em;
+    transform: translate(-80px, -50px) rotate(45deg);
+    
+}
+
+.scroll span{
+    position: absolute;
+    top:0;
+    left:0;
+    display: block;
+    width: 2em;
+    height: 2em;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+
+    animation: scrolling 1.5s linear infinite;
+}
+
+.scroll span:nth-child(1){
+    transform: translate(-15px, -15px);
+    animation-delay: 0.3s;
+}
+
+.scroll span:nth-child(2){
+    transform: translate(0, 0);
+    animation-delay: 0.2s;
+}
+
+.scroll span:nth-child(3){
+    transform: translate(15px, 15px);
+    animation-delay: 0.1s;
+}
+
+@keyframes scrolling{
+    0%{
+        top: -5px;
+        left: -5px;
+        opacity: 0;
+      }
+      25%{
+        top: 0px;
+        left: 0px;
+        opacity: 1;
+      }
+      50%,100%{
+        top: 5px;
+        left: 5px;
+        opacity: 0;
+      }
+}
