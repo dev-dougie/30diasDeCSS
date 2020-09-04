@@ -11,6 +11,7 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li>Dia 02 | Loader page</li>
   <li>Dia 03 | Typer </li>
   <li>Dia 04 | Dynamic search bar </li>
+  <li>Dia 04 | Scroll down indicator </li>
 </ul>
 
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
