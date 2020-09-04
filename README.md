@@ -10,6 +10,7 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li>Dia 01 | Ícones de mídias sociais em camadas</li>
   <li>Dia 02 | Loader page</li>
   <li>Dia 03 | Typer </li>
+  <li>Dia 04 | Dynamic search bar </li>
 </ul>
 
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
@@ -30,6 +31,12 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_03'>Código fonte </a>
+
+<h1> Dia 04 | Barra de pesquisa animada </h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/92108811-5262d780-edbe-11ea-9551-6e154bf75df2.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_04'>Código fonte </a>
 
 
 
