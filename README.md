@@ -45,4 +45,9 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_05'>Código fonte </a>
 
+<h1>Dia 06 | Mudança de background animada</h1>
+
+![demonostration](https://user-images.githubusercontent.com/61589484/92491412-96901680-f1c8-11ea-8e1f-0f900fe9aca8.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_06'>Código fonte </a>
 
