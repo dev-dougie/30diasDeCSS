@@ -11,7 +11,12 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li>Dia 02 | Loader page</li>
   <li>Dia 03 | Typer </li>
   <li>Dia 04 | Dynamic search bar </li>
-  <li>Dia 04 | Scroll down indicator </li>
+  <li>Dia 05 | Scroll down indicator </li>
+  <li>Dia 06 | Mudança de background animada </li>
+  <li>Dia 07 | Efeito de pulsação </li>
+  <li>Dia 08 | Hover animado com propriedade '::after' </li>
+  <li>Dia 09 | Share button animado</li>
+  
 </ul>
 
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
