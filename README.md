@@ -11,6 +11,7 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li>Dia 02 | Loader page</li>
   <li>Dia 03 | Typer </li>
   <li>Dia 04 | Dynamic search bar </li>
+  <li>Dia 04 | Scroll down indicator </li>
 </ul>
 
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
@@ -38,5 +39,10 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_04'>Código fonte </a>
 
+<h1>Dia 05 | Indicador de rolagem</h1>
+
+![demonstration2](https://user-images.githubusercontent.com/61589484/92233776-455deb00-ee87-11ea-9d7d-44f0d487242c.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_05'>Código fonte </a>
 
 
