@@ -1,0 +1,21 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    animation: changebg 20s infinite;
+    transition: all 0.2s;
+    color:white;
+}
+
+
+@keyframes changebg{
+    0%{background-color: cornflowerblue;}
+
+    25%{background-color: crimson;}
+
+    75%{background-color: darkorange;}
+
+    100%{background-color: darkslategray;}
+}
