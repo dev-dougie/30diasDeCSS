@@ -53,7 +53,7 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <h1>Dia 07 | Efeito de pulsação</h1>
 
-![demonstration](https://user-images.githubusercontent.com/61589484/92492868-3d28e700-f1ca-11ea-9a5d-fd253e826fd9.gif)
+![demonstration](https://user-images.githubusercontent.com/61589484/92493594-10c19a80-f1cb-11ea-99dd-b240ebaf0962.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_07'>Código fonte </a>
 
