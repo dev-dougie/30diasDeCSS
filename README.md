@@ -51,3 +51,21 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_06'>Código fonte </a>
 
+<h1>Dia 07 | Efeito de pulsação</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/92492868-3d28e700-f1ca-11ea-9a5d-fd253e826fd9.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_07'>Código fonte </a>
+
+<h1>Dia 08 | Hover animado com propriedade '::after'</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/92493131-84af7300-f1ca-11ea-890e-3ae11789934f.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_08'>Código fonte </a>
+
+<h1>Dia 09 | Share button animado</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/92493330-c2ac9700-f1ca-11ea-9d5c-925bb2a9c0bc.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_09'>Código fonte </a>
+
