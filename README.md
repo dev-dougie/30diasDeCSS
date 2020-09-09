@@ -16,7 +16,7 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li>Dia 07 | Efeito de pulsação </li>
   <li>Dia 08 | Hover animado com propriedade '::after' </li>
   <li>Dia 09 | Share button animado</li>
-  
+  <li>Dia 10 | Informações de contato</li>
 </ul>
 
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
@@ -34,7 +34,6 @@ Desafio iniciado em **31 de Agosto de 2020**
 <h1> Dia 03 | Efeito de digitalização </h1>
 
 ![demonstration](https://user-images.githubusercontent.com/61589484/91987231-2d119300-ed04-11ea-88e0-dd0480bf5485.gif)
-
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_03'>Código fonte </a>
 
@@ -73,4 +72,11 @@ Desafio iniciado em **31 de Agosto de 2020**
 ![demonstration](https://user-images.githubusercontent.com/61589484/92493330-c2ac9700-f1ca-11ea-9d5c-925bb2a9c0bc.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_09'>Código fonte </a>
+
+<h1>Dia 10 | Informações para contato</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/92597544-eaa90280-f27d-11ea-8dad-dae5e05c891e.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_10'>Código fonte </a>
+
 
