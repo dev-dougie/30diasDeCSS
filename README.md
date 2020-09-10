@@ -80,7 +80,7 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_10'>Código fonte </a>
 
-<h1>Dia 11 | Letreiro animado
+<h1>Dia 11 | Letreiro animado </h1>
 
 ![demonstration11](https://user-images.githubusercontent.com/61589484/92720311-cc550c80-f33a-11ea-9398-e91bdc3a095a.gif)
 
