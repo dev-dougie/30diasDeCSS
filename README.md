@@ -17,6 +17,7 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li>Dia 08 | Hover animado com propriedade '::after' </li>
   <li>Dia 09 | Share button animado</li>
   <li>Dia 10 | Informações de contato</li>
+  <li>Dia 11 | Letreiro animado </li>
 </ul>
 
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
@@ -79,4 +80,9 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_10'>Código fonte </a>
 
+<h1>Dia 11 | Letreiro animado
+
+![demonstration11](https://user-images.githubusercontent.com/61589484/92720311-cc550c80-f33a-11ea-9398-e91bdc3a095a.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_11'>Código fonte </a>
 
