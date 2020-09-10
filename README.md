@@ -7,7 +7,7 @@ Desafio iniciado em **31 de Agosto de 2020**
 <h1>💾 • Aplicações</h1>
 
 <ul>
-  <li>Dia 01 | Ícones de mídias sociais em camadas</li>
+  <li><a href = '#1'>Dia 01 | Ícones de mídias sociais em camadas</a></li>
   <li>Dia 02 | Loader page</li>
   <li>Dia 03 | Typer </li>
   <li>Dia 04 | Dynamic search bar </li>
@@ -20,11 +20,14 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li>Dia 11 | Letreiro animado </li>
 </ul>
 
+
+<div id ='1'>
 <h1>Dia 01 | Ícones de mídias sociais em camadas</h1>
 
 ![demonstration](https://user-images.githubusercontent.com/61589484/91852512-54e6f500-ec37-11ea-8ddc-155231c9d89d.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_01'>Código fonte </a>
+</div>
 
 <h1>Dia 02 | Página de carregamento </h1>
   
