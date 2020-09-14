@@ -18,6 +18,7 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#9'>Dia 09 | Share button animado</li>
   <li><a href = '#10'>Dia 10 | Informações de contato</li>
   <li><a href = '#11'>Dia 11 | Letreiro animado </li>
+  <li><a href = '#12'>Dia 12 | Pre-loader </li>
 </ul>
 
 
@@ -88,4 +89,10 @@ Desafio iniciado em **31 de Agosto de 2020**
 ![demonstration11](https://user-images.githubusercontent.com/61589484/92720311-cc550c80-f33a-11ea-9398-e91bdc3a095a.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_11'>Código fonte </a>
+
+<h1 id = '12' >Dia 12 | Pre-loader </h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/92919667-46eb5e00-f407-11ea-8fa9-e743371a4919.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_12'>Código fonte </a>
 
