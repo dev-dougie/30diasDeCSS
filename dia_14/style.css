@@ -1,0 +1,44 @@
+html, body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 50pt;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.4;
+    transition: all 0.7s;
+}
+
+span{
+    color: white;
+    background-image: radial-gradient(#0ff 0%, #0f0 25%, #ff0 50%, #f0f, #00f 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
+    background-size: 115% 80%;
+    -webkit-text-stroke: 4px transparent;  
+}
+
+.a{
+    filter: blur(40px);
+    position: relative;
+    top: -150px
+}
+
+h1:hover{
+    opacity: 1;
+}
