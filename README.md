@@ -19,6 +19,10 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#10'>Dia 10 | Informações de contato</li>
   <li><a href = '#11'>Dia 11 | Letreiro animado </li>
   <li><a href = '#12'>Dia 12 | Pre-loader </li>
+  <li><a href = '#13'>Dia 13 | Avaliação 5 estrelas </li>
+  <li><a href = '#14'>Dia 14 | Letreiro colorido </li>
+  <li><a href = '#15'>Dia 15 | Informativo</li>
+  
 </ul>
 
 
@@ -96,3 +100,21 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_12'>Código fonte </a>
 
+<h1 id = '13' >Dia 13 | Avaliação 05 estrelas </h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/93098056-c59d0100-f67c-11ea-8721-aec56122ae70.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_13'>Código fonte </a>
+
+<h1 id = '14' >Dia 14 | Letreiro colorido</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/93098064-c897f180-f67c-11ea-95e4-742fd2ee95aa.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_13'>Código fonte </a>
+
+<h1 id = '15' >Dia 15 | Informativo</h1>
+
+
+![demonstration](https://user-images.githubusercontent.com/61589484/93098473-45c36680-f67d-11ea-9c26-a78e7fc2385d.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_13'>Código fonte </a>
