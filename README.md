@@ -122,5 +122,7 @@ Desafio iniciado em **31 de Agosto de 2020**
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_15'>Código fonte </a>
 
 <h1 id = '16' >Dia 16 | Animação de rotação </h1>
+
 ![demonstration](https://user-images.githubusercontent.com/61589484/93207104-d73fe080-f730-11ea-9227-944537732c12.gif)
+
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_16'>Código fonte </a>
