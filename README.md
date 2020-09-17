@@ -133,7 +133,7 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_17'>Código fonte </a>
 
-<h1 id = '18' >Dia 18 |Theme change</h1>
+<h1 id = '18' >Dia 18 | Theme change</h1>
 
 ![demonstration](https://user-images.githubusercontent.com/61589484/93462857-519d6b80-f8bd-11ea-93cf-f014b183fc55.gif)
 
