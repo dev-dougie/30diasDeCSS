@@ -25,6 +25,8 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#16'>Dia 16 | Animação de rotação</li>
   <li><a href = '#17'>Dia 17 | Endless road</li>
   <li><a href = '#18'>Dia 18 | Mudança de tema</li>
+  <li><a href = '#19'>Dia 19 | Efeito de foco</li>
+    
 </ul>
 
 
