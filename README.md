@@ -139,4 +139,9 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_18'>Código fonte </a>
 
+<h1 id = '19' >Dia 19 | Focues effect</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/93616197-ca2e2600-f9aa-11ea-8a3c-014d4337f0d7.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_19'>Código fonte </a>
 
