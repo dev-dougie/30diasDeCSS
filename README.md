@@ -26,6 +26,10 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#17'>Dia 17 | Endless road</li>
   <li><a href = '#18'>Dia 18 | Mudança de tema</li>
   <li><a href = '#19'>Dia 19 | Efeito de foco</li>
+  <li><a href = '#20'>Dia 20 | Clock Effect</li>
+  <li><a href = '#21'>Dia 21 | Responsive Glowing Gradient border</li>
+  <li><a href = '#22'>Dia 22 | Neon light hover effect</li>
+    
     
 </ul>
 
@@ -146,4 +150,25 @@ Desafio iniciado em **31 de Agosto de 2020**
 ![demonstration](https://user-images.githubusercontent.com/61589484/93619361-d61be700-f9ae-11ea-946d-10be45895b42.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_19'>Código fonte </a>
+
+<h1 id = '20' >Dia 20 | Clock Effect</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/93773882-f8a04100-fbf6-11ea-97cc-01a2a00d87ef.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_20'>Código fonte </a>
+
+
+<h1 id = '21' >Dia 21 | Responsive Glowing Gradient border</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/93773898-fd64f500-fbf6-11ea-9c61-49c922ed3c86.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_21'>Código fonte </a>
+
+<h1 id = '22' >Dia 22 | Neon light hover effect</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/93773912-0229a900-fbf7-11ea-9737-03ec5f37aebd.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_22'>Código fonte </a>
+
+
 
