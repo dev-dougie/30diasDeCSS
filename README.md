@@ -25,6 +25,8 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#16'>Dia 16 | Animação de rotação</li>
   <li><a href = '#17'>Dia 17 | Endless road</li>
   <li><a href = '#18'>Dia 18 | Mudança de tema</li>
+  <li><a href = '#19'>Dia 19 | Efeito de foco</li>
+    
 </ul>
 
 
@@ -139,4 +141,9 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_18'>Código fonte </a>
 
+<h1 id = '19' >Dia 19 | Focus effect</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/93619361-d61be700-f9ae-11ea-946d-10be45895b42.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_19'>Código fonte </a>
 
