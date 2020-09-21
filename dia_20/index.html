@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clock Effect</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id = 'time'>00:00:00</h1>
+
+    <div class="clock">
+        <div class="hour">
+            <div class="hr" id = 'hr'></div>
+        </div>
+        <div class="min">
+            <div class="mn" id = 'mn'></div>
+        </div>
+        <div class="sec">
+            <div class="sc" id = 'sc'></div>
+        </div>
+    </div>
+
+    <script>
+        const deg = 6;
+        const hr = document.querySelector('#hr');
+        const mn = document.querySelector('#mn');
+        const sc = document.querySelector("#sc");
+        const time = document.querySelector('#time')
+
+     
+
+
+        setInterval(() => {
+        let day = new Date();
+        let hh = day.getHours()
+        let mm = day.getMinutes() 
+        let ss = day.getSeconds()
+
+        time.textContent = `${hh}:${mm}:${ss}`
+
+
+
+        hr.style.transform = `rotateZ(${(hh * 30) + (mm/12)}deg)`;
+        mn.style.transform = `rotateZ(${mm * deg}deg)`;
+        sc.style.transform = `rotateZ(${ss * deg}deg)`;
+        }) 
+
+       
+
+
+    </script>
+    
+</body>
+</html>
