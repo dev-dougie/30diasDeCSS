@@ -166,7 +166,7 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <h1 id = '22' >Dia 22 | Neon light hover effect</h1>
 
-![demonstration](https://user-images.githubusercontent.com/61589484/93773912-0229a900-fbf7-11ea-9737-03ec5f37aebd.gif)
+![demonstration](https://user-images.githubusercontent.com/61589484/93774697-e4107880-fbf7-11ea-923a-fbe200b381f9.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_22'>Código fonte </a>
 
