@@ -168,13 +168,13 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <h1 id = '22' >Dia 22 | Neon light hover effect</h1>
 
-![demonstration](https://user-images.githubusercontent.com/61589484/93774697-e4107880-fbf7-11ea-923a-fbe200b381f9.gif)
+![demonstration](https://user-images.githubusercontent.com/61589484/93873675-7c663600-fca8-11ea-9720-c4f96977de9b.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_22'>Código fonte </a>
 
 <h1 id = '23' >Dia 23 | Jumping balls</h1>
 
-
+![demonstration](https://user-images.githubusercontent.com/61589484/93873699-84be7100-fca8-11ea-88a0-b80427588ecb.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_23'>Código fonte </a>
 
