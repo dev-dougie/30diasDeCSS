@@ -182,6 +182,8 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <h1 id = '24' >Dia 24 | Hover Effect II</h1>
 
+![demonstration](https://user-images.githubusercontent.com/61589484/94004797-9882d980-fd73-11ea-9173-500c53eca4ac.gif)
+
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_23'>Código fonte </a>
 
 
