@@ -1,0 +1,44 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:0;
+    padding:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #3a3939;
+}
+
+
+a{
+    text-decoration: none;
+    padding: 8px;
+    border: 1px solid white;
+    border-radius: 3px;
+    font-size:40px;
+    color:white;
+    position: relative;
+    transition: all 1s;
+    overflow: hidden;
+}
+
+
+a:before{
+    content: 'Dia 24 ✔️';
+    color: white;
+    background-color: #aadfecf6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    top:0;
+    height: 100%;
+    width: 100%;
+    transform: translateY(-100%);
+    transition: all .5s;
+}
+
+a:hover:before {
+	transform: translateY(0);
+}
