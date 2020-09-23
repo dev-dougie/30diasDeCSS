@@ -30,6 +30,8 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#21'>Dia 21 | Responsive Glowing Gradient border</li>
   <li><a href = '#22'>Dia 22 | Neon light hover effect</li>
   <li><a href = '#23'>Dia 23 | Jumping balls</li>
+  <li><a href = '#24'>Dia 24 | Hover Effect II</li>
+    
     
     
     
@@ -177,6 +179,11 @@ Desafio iniciado em **31 de Agosto de 2020**
 ![demonstration](https://user-images.githubusercontent.com/61589484/93873675-7c663600-fca8-11ea-9720-c4f96977de9b.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_23'>Código fonte </a>
+
+<h1 id = '24' >Dia 24 | Hover Effect II</h1>
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_23'>Código fonte </a>
+
 
 
 
