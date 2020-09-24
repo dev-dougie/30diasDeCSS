@@ -31,6 +31,8 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#22'>Dia 22 | Neon light hover effect</li>
   <li><a href = '#23'>Dia 23 | Jumping balls</li>
   <li><a href = '#24'>Dia 24 | Hover Effect II</li>
+  <li><a href = '#25'>Dia 25 | Botão animado</li>
+  
     
     
     
@@ -161,7 +163,6 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_20'>Código fonte </a>
 
-
 <h1 id = '21' >Dia 21 | Responsive Glowing Gradient border</h1>
 
 ![demonstration](https://user-images.githubusercontent.com/61589484/93773898-fd64f500-fbf6-11ea-9c61-49c922ed3c86.gif)
@@ -184,7 +185,14 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 ![demonstration](https://user-images.githubusercontent.com/61589484/94004797-9882d980-fd73-11ea-9173-500c53eca4ac.gif)
 
-<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_23'>Código fonte </a>
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_24'>Código fonte </a>
+
+
+<h1 id = '25' >Dia 25 | Botão animado</h1>
+
+![demonstraiton](https://user-images.githubusercontent.com/61589484/94134141-ff69c680-fe37-11ea-877b-87f4a275570c.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_25'>Código fonte </a>
 
 
 
