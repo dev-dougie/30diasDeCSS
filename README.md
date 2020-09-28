@@ -33,11 +33,10 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#24'>Dia 24 | Hover Effect II</li>
   <li><a href = '#25'>Dia 25 | Botão animado</li>
   <li><a href = '#26'>Dia 26 | Jumping Letters</li>
-  
-    
-    
-    
-    
+  <li><a href = '#27'>Dia 27 | Explosion Effect</li>
+  <li><a href = '#28'>Dia 28 | Smoke Letters</li>
+  <li><a href = '#29'>Dia 29 | Loading Effect II</li>
+      
 </ul>
 
 
@@ -201,4 +200,21 @@ Desafio iniciado em **31 de Agosto de 2020**
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_26'>Código fonte </a>
 
+<h1 id = '27' >Dia 27 | Explosion Effect</h1>
+
+![demonstraiton](https://user-images.githubusercontent.com/61589484/94423237-b333c480-015e-11eb-8394-7aea89fb0902.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_27'>Código fonte </a>
+
+<h1 id = '28' >Dia 28 | Smoke Letters</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/94423245-b62eb500-015e-11eb-98b9-3818f2424249.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_28'>Código fonte </a>
+
+<h1 id = '29' >Dia 29 | Loading Effect II</h1>
+
+![demonstration](https://user-images.githubusercontent.com/61589484/94423270-c47cd100-015e-11eb-9525-3648ee7b1845.gif)
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_29'>Código fonte </a>
 
