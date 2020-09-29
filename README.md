@@ -220,7 +220,7 @@ Desafio iniciado em **31 de Agosto de 2020** e finalizado em **29 de Setembro de
 
 <h1 id = '30' >Dia 30 | Fill Text on hover</h1>
 
-
+![demonstration](https://user-images.githubusercontent.com/61589484/94547443-a6c66f00-0225-11eb-8041-f8a0c1d0595f.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_30'>Código fonte </a>
 
