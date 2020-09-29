@@ -1,7 +1,7 @@
 <h1>📒 • Sobre</h1>
 30 dias de CSS é um challenge criado para aprimorar os conhecimentos e habilidades em estilização de páginas web com CSS. Durante 1 mês os participantes realizam um desafio por dia, envolvendo os conceitos mais atuais de estilização. <br><br>
 
-Desafio iniciado em **31 de Agosto de 2020**
+Desafio iniciado em **31 de Agosto de 2020** e finalizado em **29 de Setembro de 2020**
 
 
 <h1>💾 • Aplicações</h1>
@@ -36,7 +36,7 @@ Desafio iniciado em **31 de Agosto de 2020**
   <li><a href = '#27'>Dia 27 | Explosion Effect</li>
   <li><a href = '#28'>Dia 28 | Smoke Letters</li>
   <li><a href = '#29'>Dia 29 | Loading Effect II</li>
-      
+  <li><a href = '#30'>Dia 30 | Fill text on hover</li>    
 </ul>
 
 
@@ -217,4 +217,11 @@ Desafio iniciado em **31 de Agosto de 2020**
 ![demonstration](https://user-images.githubusercontent.com/61589484/94423270-c47cd100-015e-11eb-9525-3648ee7b1845.gif)
 
 <a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_29'>Código fonte </a>
+
+<h1 id = '30' >Dia 30 | Fill Text on hover</h1>
+
+
+
+<a href = 'https://github.com/dev-dougie/30diasCSS/tree/master/dia_30'>Código fonte </a>
+
 
