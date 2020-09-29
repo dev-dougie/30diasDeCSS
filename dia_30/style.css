@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 8em;
+    color: #fff;
+    -webkit-text-stroke: 2px #000;
+    text-transform: uppercase;
+    cursor: crosshair;
+}
+
+h1:before{
+    content: attr(data-text);
+    position: absolute;
+    top:0;
+    left:0;
+    width: 0;
+    color: #211ee9;
+    white-space: nowrap;
+    transition: 2s;
+    overflow: hidden;
+}
+
+h1:hover:before{
+    width: 100%;
+    
+}
